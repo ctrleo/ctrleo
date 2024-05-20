@@ -14,7 +14,7 @@ Sonic The Hedgehog 2
 ### FAVOURITE ANIME:
 
 <video width="320" height="240" controls>
-	<source src="src/nge_ep01.mp4" type="video/mp4">
+	<source src="https://github.com/ctrleo/ctrleo/raw/main/src/nge_ep01.mp4" type="video/mp4">
 	VIDEO ERROR
 </video>
 
