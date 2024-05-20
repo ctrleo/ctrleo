@@ -11,6 +11,7 @@
 				<ul>🌐 JavaScript</ul>
 				<ul>🦀 RUST!!!</ul>
 				<ul>🇬🇷 Greek</ul>
+				<ul>👱🏻‍♀️ Swift</ul>
 				<ul>🧛🏿 Cartinese</ul>
 			</div>
 		<h2>My Favourites:</h2>
