@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+}
+h1,h2,h3,h4 {
+    border-bottom: 0;
+}
+#favs {
+    text-align: center;
+}
+#favs div {
+    display: inline-block;
+    padding: 50px;
+    border: 1px;
+    border-color: #333;
+    border-style: solid;
+}
