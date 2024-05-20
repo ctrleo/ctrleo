@@ -14,8 +14,8 @@ Sonic The Hedgehog 2
 ### FAVOURITE ANIME:
 
 <video width="320" height="240" controls>
-	<source src="src/NGE_EP01.mp4" type="video/mp4">
-	Video tag not supported
+	<source src="src/nge_ep01.mp4" type="video/mp4">
+	VIDEO ERROR
 </video>
 
 Neon Genesis Evangelion
