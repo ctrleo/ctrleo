@@ -23,12 +23,14 @@
 			</div>
 			<div id="anime">
 				<h3>FAVOURITE ANIME:</h3>
-				<!-- Add video here -->
+				<video controls>
+					<source src="src/Neon Genesis Evangelion Ep01 Angel Attack.mp4" type="video/mp4">
+				</video>
 				<p>Neon Genesis Evangelion</p>
 			</div>
 			<div id="album">
 				<h3>FAVOURITE ALBUM</h3>
-				<!-- add album here -->
+				<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6jbtHi5R0jMXoliU2OS0lo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 				<p>Motomami - Rosalía</p>
 			</div>
 		</div>
