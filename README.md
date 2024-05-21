@@ -9,7 +9,7 @@
 ## My Favourites
 Click each image to open
 ### FAVOURITE VIDEO GAME:
-*note: add game pls*
+[<img src="https://www.google.com/images/sonic/3-sonic-wait1-60px.gif" height="200">](https://www.retrogames.cc/genesis-games/sonic-the-hedgehog-2-world-rev-a.html)
 
 Sonic The Hedgehog 2
 ### FAVOURITE ANIME:
