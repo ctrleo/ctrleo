@@ -7,7 +7,7 @@
 	👱🏻‍♀️ Swift
 	🧛🏿 Cartinese
 ## My Favourites
-Click each image to open
+Click each image to open!!!
 ### FAVOURITE VIDEO GAME:
 [<img src="https://www.google.com/images/sonic/3-sonic-wait1-60px.gif" height="200">](https://www.retrogames.cc/genesis-games/sonic-the-hedgehog-2-world-rev-a.html)
 
