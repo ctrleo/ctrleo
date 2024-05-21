@@ -2,12 +2,12 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://w3.org/1999/xhtml">
 			<style>
-				.sonic_the_hedgehog {
-					background-image: "https://www.google.com/images/sonic/3-sonic-wait1-60px.gif";
-				}
-				.sonic_the_hedgehog:hover {
-					background-image: "https://www.google.com/images/sonic/6-sonic-roll-60px.gif";
-				}
+			.sonic_the_hedgehog {
+				background-image: "https://www.google.com/images/sonic/3-sonic-wait1-60px.gif";
+			}
+			.sonic_the_hedgehog:hover {
+				background-image: "https://www.google.com/images/sonic/6-sonic-roll-60px.gif";
+			}
 			</style>
 			<div class="sonic_the_hedgehog"> </div>
 		</div>
