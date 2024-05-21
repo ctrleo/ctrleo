@@ -5,11 +5,11 @@
                 .sonic_the_hedgehog {
                     width: 100%;
                     height: 100%;
-                    background-image: url("https://www.google.com/images/sonic/3-sonic-wait1-60px.gif");
+                    background-image: url("3-sonic-wait1-60px.gif");
                     background-size: cover;
                 }
                 .sonic_the_hedgehog:hover {
-                    background-image: url("https://www.google.com/images/sonic/6-sonic-roll-60px.gif");
+                    background-image: url("3-sonic-wait1-60px.gif");
                 }
             </style>
             <div class="sonic_the_hedgehog"></div>
