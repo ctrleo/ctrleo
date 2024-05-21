@@ -3,7 +3,7 @@
 	🇬🇧 English
 	🌐 JavaScript
 	🦀 RUST!!!
-	🇬🇷 Greek
+	🇨🇾 Greek
 	👱🏻‍♀️ Swift
 	🧛🏿 Cartinese
 ## My Favourites
