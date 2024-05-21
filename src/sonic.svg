@@ -1,15 +1,15 @@
 <svg viewBox="0 0 200 200" width="200" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		.sonic_the_hedgehog {
+			background-image: "https://www.google.com/images/sonic/3-sonic-wait1-60px.gif";
+		}
+		.sonic_the_hedgehog:hover {
+			background-image: "https://www.google.com/images/sonic/6-sonic-roll-60px.gif";
+		}
+	</style>
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://w3.org/1999/xhtml">
 			<div class="sonic_the_hedgehog"> </div>
-			<style>
-			.sonic_the_hedgehog {
-				background-image: "https://www.google.com/images/sonic/3-sonic-wait1-60px.gif";
-			}
-			.sonic_the_hedgehog:hover {
-				background-image: "https://www.google.com/images/sonic/6-sonic-roll-60px.gif";
-			}
-			</style>
 		</div>
 	</foreignObject>
 </svg>
