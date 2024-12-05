@@ -2,6 +2,7 @@
 ## My Languages
 	🇬🇧 English
 	🌐 JavaScript
+ 	💻 C++
 	🦀 RUST!!!
 	🇨🇾 Greek
 	👱🏻‍♀️ Swift
